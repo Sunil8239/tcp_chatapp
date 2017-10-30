@@ -37,7 +37,7 @@ That's it!
 * Start chatting!
 
 ## Screenshots
-![Screenshot1](http://i.imgur.com/561prSC.png)
+![Screenshot1](https://i.imgur.com/qSZIESm.png)
 
 
 
