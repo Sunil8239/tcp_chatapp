@@ -1,4 +1,4 @@
-# tcp_chat   [![Build Status](https://travis-ci.org/pdhoot/tcp_chat.svg?branch=master)](https://travis-ci.org/pdhoot/tcp_chat)
+# tcp_chat   [![Build Status](https://travis-ci.org/Sunil8239/tcp_chat.svg?branch=master)](https://travis-ci.org/Sunil8239/tcp_chat)
 
 > A chat app built over TCP
 
@@ -22,16 +22,17 @@ It's built over python's socketAPI.
 
 ## Requires
 * [clint](https://github.com/kennethreitz/clint)
+  sudo pip install clint
 
 ## Installation
-`[sudo] pip install tcp_chat`
+`sudo pip install tcp_chat`
 
 That's it!
 
 ## Usage
 
-* Start a server `tcp_chat --server <interface> <password>`
-* Connect to the server `tcp_chat --client <interface> <password>`
+* Start a server `tcp_chat --server interface password`
+* Connect to the server `tcp_chat --client interface password`
 * Start chatting!
 
 ## Screenshots
@@ -42,5 +43,5 @@ That's it!
 ![Screenshot2](http://i.imgur.com/DXy2E2z.png)
 
 ## License
-MIT © [Punit Dhoot](https://github.com/pdhoot)
+MIT © [Sunil Yadav](https://github.com/Sunil8239)
 
