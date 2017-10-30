@@ -41,7 +41,7 @@ That's it!
 
 
 
-![Screenshot2](http://i.imgur.com/DXy2E2z.png)
+![Screenshot2](https://i.imgur.com/GrPzS7v.png)
 
 ## License
 MIT © [Sunil Yadav](https://github.com/Sunil8239)
