@@ -22,7 +22,8 @@ It's built over python's socketAPI.
 
 ## Requires
 * [clint](https://github.com/kennethreitz/clint)
-  sudo pip install clint
+
+* sudo pip install clint
 
 ## Installation
 `sudo pip install tcp_chat`
